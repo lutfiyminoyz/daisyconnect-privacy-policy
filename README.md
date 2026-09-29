@@ -36,7 +36,7 @@ Your data is stored on Supabase's cloud infrastructure, which uses industry-stan
 
 ## 5. Account Deletion and Data Retention
 
-You have the right to request the deletion of your personal data. You can delete your account and associated data directly within the App's settings menu. Upon requesting account deletion, all personal data, including your name, email, and user-generated content, will be permanently removed from our active Supabase databases. Device tokens are deleted when you disable push notifications or log out.
+You have the right to request the deletion of your personal data at any time. You can request account and data deletion by submitting our official [Account Deletion Request Form](https://forms.gle/mgkTx3FyFuKoHfGAA). Upon processing your request (within 7 business days), all personal data—including your name, email, authentication credentials, and user-generated content—will be permanently removed from our active Supabase databases. Device tokens are also permanently removed.
 
 ## 6. Children's Privacy
 
