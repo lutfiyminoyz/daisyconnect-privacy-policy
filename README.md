@@ -39,7 +39,7 @@ Your data is stored on Supabase's cloud infrastructure, which uses industry-stan
 You have the right to request the deletion of your personal data at any time. You can initiate an account deletion request using either of the following methods:
 
 1.  **Inside the App:** Go to the **Sunting Profil** (Edit Profile) section, scroll to the bottom, and tap the **"Permintaan Pemadaman Akaun"** hyperlink button to open our official Account Deletion Request Form.
-2.  **Via the Web:** Submit our official [Account Deletion Request Form](PASTE_YOUR_GOOGLE_FORM_LINK_HERE) directly through your browser without needing to log into the App.
+2.  **Via the Web:** Submit our official [Account Deletion Request Form](https://forms.gle/mgkTx3FyFuKoHfGAA) directly through your browser without needing to log into the App.
 
 Upon processing your request (within 7 business days), all personal data—including your name, email, authentication credentials, and user-generated content—will be permanently removed from our active Supabase databases. Device tokens (FCM tokens) are also permanently removed.
 
