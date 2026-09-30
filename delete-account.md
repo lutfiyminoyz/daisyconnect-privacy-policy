@@ -1,17 +1,26 @@
 # Account and Data Deletion Request – DaisyConnect
 
-This page explains how users of the **DaisyConnect** mobile application can request the deletion of their account and all associated personal data.
+This page explains how users of the **DaisyConnect** mobile application can request the permanent deletion of their account and all associated personal data.
 
 ---
 
-## How to Request Account Deletion
+## Option 1: Request Deletion Inside the App
+If you have the DaisyConnect app installed on your device, you can access the deletion request form directly from your profile settings:
 
-To request the permanent deletion of your DaisyConnect account and associated data, please submit our official Account Deletion Request Form:
+1. Open the **DaisyConnect** app and log in to your account.
+2. Navigate to your Profile and open the **Sunting Profil** (Edit Profile) section.
+3. Scroll to the bottom of the screen and tap the **"Permintaan Pemadaman Akaun"** hyperlink button.
+4. This will open our official Account Deletion Request Google Form in your browser. Fill in your details and click **Submit**.
 
-👉 **[Submit an Account Deletion Request (Google Form)](https://forms.gle/mgkTx3FyFuKoHfGAA)**
+---
+
+## Option 2: Request Deletion via Web (No App Login Required)
+If you have already uninstalled the app or cannot log in, you can access and submit the exact same official request form directly on the web:
+
+👉 **[Submit an Account Deletion Request (Google Form)](PASTE_YOUR_GOOGLE_FORM_LINK_HERE)**
 
 ### Steps to Complete the Request:
-1. Open the Google Form link above (no app login required).
+1. Open the Google Form link above.
 2. Enter the **email address** and **full name** associated with your DaisyConnect account.
 3. Check the confirmation box acknowledging that account deletion is permanent.
 4. Click **Submit**.
