@@ -1,6 +1,6 @@
 # Privacy Policy for DaisyConnect
 
-**Last updated:** August 24, 2026
+**Last updated:** September 30, 2026
 
 DaisyConnect ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by DaisyConnect. 
 
@@ -13,7 +13,7 @@ To provide and improve our services, we collect the following types of informati
 *   **Account Information:** When you create an account, we collect personal information such as your name, email address, and password. 
 *   **Usage Data:** We may collect information on how the App is accessed and used, including your device type, operating system version, and the time and date of your use.
 *   **Device Identifiers:** We collect device push notification tokens (FCM tokens) solely for the purpose of routing notifications to your specific device.
-*   **User-Generated Content:** Any information, text, or content you choose to submit or post within the residential community network.
+*   **User-Generated Content:** Any information, text, photos, or content you choose to submit or post within the residential community network.
 
 ## 2. How We Use Your Information
 
@@ -36,7 +36,12 @@ Your data is stored on Supabase's cloud infrastructure, which uses industry-stan
 
 ## 5. Account Deletion and Data Retention
 
-You have the right to request the deletion of your personal data at any time. You can request account and data deletion by submitting our official [Account Deletion Request Form](https://forms.gle/mgkTx3FyFuKoHfGAA). Upon processing your request (within 7 business days), all personal data—including your name, email, authentication credentials, and user-generated content—will be permanently removed from our active Supabase databases. Device tokens are also permanently removed.
+You have the right to request the deletion of your personal data at any time. You can initiate an account deletion request using either of the following methods:
+
+1.  **Inside the App:** Go to the **Sunting Profil** (Edit Profile) section, scroll to the bottom, and tap the **"Permintaan Pemadaman Akaun"** hyperlink button to open our official Account Deletion Request Form.
+2.  **Via the Web:** Submit our official [Account Deletion Request Form](PASTE_YOUR_GOOGLE_FORM_LINK_HERE) directly through your browser without needing to log into the App.
+
+Upon processing your request (within 7 business days), all personal data—including your name, email, authentication credentials, and user-generated content—will be permanently removed from our active Supabase databases. Device tokens (FCM tokens) are also permanently removed.
 
 ## 6. Children's Privacy
 
@@ -49,4 +54,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ## 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-*   **Email:** drkirahlearninglab@gmail.com
+*   **Email:** [Insert your contact email address here]
