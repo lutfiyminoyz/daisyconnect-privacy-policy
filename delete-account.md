@@ -17,7 +17,7 @@ If you have the DaisyConnect app installed on your device, you can access the de
 ## Option 2: Request Deletion via Web (No App Login Required)
 If you have already uninstalled the app or cannot log in, you can access and submit the exact same official request form directly on the web:
 
-👉 **[Submit an Account Deletion Request (Google Form)](PASTE_YOUR_GOOGLE_FORM_LINK_HERE)**
+👉 **[Submit an Account Deletion Request (Google Form)](https://forms.gle/mgkTx3FyFuKoHfGAA)**
 
 ### Steps to Complete the Request:
 1. Open the Google Form link above.
